@@ -1,0 +1,3 @@
+Name = Raghav Gupta
+Father's Name = Amar Gopal NayaBaniya
+Regd_no = 12215792
